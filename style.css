@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+nav {text-align: center;
+}
+nav a {
+  padding: 10 px;
+  background-color: bisque;
+}
+body{
+  text-align: center;
+}
+p#lorem {
+  justify-content: center;
+  width: 600px;
+}
+#details div {
+  float: left;
+  background-color: crimson;
+  width: 25%;
+}
